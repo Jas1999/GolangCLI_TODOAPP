@@ -1,2 +1,2 @@
 run/todo:
-	@go run ./cmd
+	@go run ./cmd/todo
